@@ -4,5 +4,5 @@ Transform the image denoising model to a saddle point problem and using ADMM alg
 
 The test images used can be found in folder '**Figures**', '**TestImage**' and '**TestImage_2**'.
 
-The functions we used are in folder '**Functions**'.
+The functions we used are in folder '**Function**'.
 
