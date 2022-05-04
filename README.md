@@ -6,3 +6,5 @@ The test images used can be found in folder '**Figures**', '**TestImage**' and '
 
 The functions we used are in folder '**Function**' or have already defined in matlab.
 
+The results we got are stored in folder '**MatResults**'
+
