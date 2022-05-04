@@ -1,4 +1,4 @@
-load Test_table1_05_03_18_41
+load './MatResults/Test_table1_05_03_18_41'
 [imageNumber, l_max] = size(psnr_total);
 iter_array = 1:1:l_max;
 image_array = 1:1:imageNumber;
